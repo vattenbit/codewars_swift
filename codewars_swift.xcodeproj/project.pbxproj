@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		998F0FE62EB79AEE00918D37 /* codewars_swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = codewars_swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		998F0FFC2EB79D8100918D37 /* 6411b91a5e71b915d237332d.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 6411b91a5e71b915d237332d.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		998F100C2EB7B31B00918D37 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,6 +53,7 @@
 		998F0FDD2EB79AEE00918D37 = {
 			isa = PBXGroup;
 			children = (
+				998F100C2EB7B31B00918D37 /* README.md */,
 				998F0FE82EB79AEE00918D37 /* codewars_swift */,
 				998F0FE72EB79AEE00918D37 /* Products */,
 			);
