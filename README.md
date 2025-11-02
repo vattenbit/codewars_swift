@@ -6,9 +6,9 @@ This repository is a personal playground to practice Swift by solving Codewars k
 
 - Note: Dates use the repository's local timezone on the day of entry.
 
-| Kata ID | Link | Solved On |
-| --- | --- | --- |
-| 6411b91a5e71b915d237332d | https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/swift | 2025-11-02 |
+| Kata ID | Solved On |
+| --- | --- |
+| [6411b91a5e71b915d237332d](https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/swift) | 2025-11-02 |
 
 ## How to Run
 
