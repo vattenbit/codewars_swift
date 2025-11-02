@@ -8,7 +8,7 @@ This repository is a personal playground to practice Swift by solving Codewars k
 
 | Kata ID | Solved On |
 | --- | --- |
-| [6411b91a5e71b915d237332d](https://www.codewars.com/kata/6411b91a5e71b915d237332d/train/swift) | 2025-11-02 |
+| [6411b91a5e71b915d237332d](6411b91a5e71b915d237332d/) | 2025-11-02 |
 
 ## How to Run
 
@@ -20,3 +20,4 @@ This repository is a personal playground to practice Swift by solving Codewars k
 
 - This is a learning project; structure and content may evolve over time.
 - Feel free to open issues or suggestions for better Swift patterns or kata solutions.
+
