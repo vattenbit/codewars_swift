@@ -16,7 +16,7 @@ func validParentheses(_ str: String) -> Bool {
     return true
 }
 
-func ParenthesesTestsValid() {
+func parenthesesTestsValid() {
     let array_tests = [
         (true, "()"),
         (true, "((()))"),
