@@ -16,20 +16,23 @@ func validParentheses(_ str: String) -> Bool {
     return true
 }
 
-@main
-struct Tests {
-    static func main() {
-        doTest(true, "()", using: validParentheses)
-        doTest(true, "((()))", using: validParentheses)
-        doTest(true, "()()()", using: validParentheses)
-        doTest(true, "(()())()", using: validParentheses)
-        doTest(true, "()(())((()))(())()", using: validParentheses)
-        doTest(false, ")(", using: validParentheses)
-        doTest(false, "()()(", using: validParentheses)
-        doTest(false, "((())", using: validParentheses)
-        doTest(false, "())(()", using: validParentheses)
-        doTest(false, ")()", using: validParentheses)
-        doTest(false, ")", using: validParentheses)
-        doTest(true, "", using: validParentheses)
+func ParenthesesTestsValid() {
+    let array_tests = [
+        (true, "()"),
+        (true, "((()))"),
+        (true, "()()()"),
+        (true, "(()())()"),
+        (true, "()(())((()))(())()"),
+        (false, ")("),
+        (false, "()()("),
+        (false, "((())"),
+        (false, ")())(()"),
+        (false, ")()"),
+        (false, ")"),
+        (true, "")
+    ]
+    
+    for test in array_tests {
+        doTest(test.0, test.1, using: validParentheses)
     }
 }

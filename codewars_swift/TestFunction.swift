@@ -6,3 +6,10 @@ func doTest(_ expected: Bool, _ input: String, using validator: (String) -> Bool
         print("FAIL: \(input) -> \(actual), expected \(expected)")
     }
 }
+
+@main
+struct App {
+    static func main() {
+        ValidBracesTests()
+    }
+}
