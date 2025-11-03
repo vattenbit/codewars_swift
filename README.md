@@ -7,6 +7,7 @@ This repository is a personal playground to practice Swift by solving Codewars k
 | --- | --- |
 | [6411b91a5e71b915d237332d](codewars_swift/6411b91a5e71b915d237332d/) | 2025-11-02 |
 | [5277c8a221e209d3f6000b56](codewars_swift/5277c8a221e209d3f6000b56/) | 2025-11-03 |
+| [5467e4d82edf8bbf40000155](codewars_swift/5467e4d82edf8bbf40000155/) | Working on it |
 
 ## How to Run
 
